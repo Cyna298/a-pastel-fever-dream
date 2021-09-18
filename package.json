@@ -2,8 +2,9 @@
     "name": "a-pastel-fever-dream",
     "displayName": "A Pastel Fever Dream",
     "description": "A pastel theme for VSCode",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "Mubariz",
+    "icon": "images/fever-dream.png",
     "engines": {
         "vscode": "^1.59.0"
     },
