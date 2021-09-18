@@ -1,0 +1,32 @@
+{
+    "name": "a-pastel-fever-dream",
+    "displayName": "A Pastel Fever Dream",
+    "description": "Lyra",
+    "version": "0.0.1",
+    "publisher": "Mubariz",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "pastel",
+        "a pastel fever dream",
+        "fever dream",
+        "dream",
+        "fever"
+
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "A Pastel Fever Dream",
+                "uiTheme": "vs-dark",
+                "path": "./themes/a-pastel-fever-dream-color-theme.json"
+            }
+        ]
+    }
+}
